@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shuoheren/Projects/PokemonReviewApp/PokemonReivewApp/PokemonReivewApp.csproj",
+      "projectUniqueName": "/Users/shuoheren/Documents/GitHub/PokemonReivewApp/PokemonReivewApp/PokemonReivewApp.csproj",
       "projectName": "PokemonReivewApp",
-      "projectPath": "/Users/shuoheren/Projects/PokemonReviewApp/PokemonReivewApp/PokemonReivewApp.csproj",
+      "projectPath": "/Users/shuoheren/Documents/GitHub/PokemonReivewApp/PokemonReivewApp/PokemonReivewApp.csproj",
       "packagesPath": "/Users/shuoheren/.nuget/packages/",
-      "outputPath": "/Users/shuoheren/Projects/PokemonReviewApp/PokemonReivewApp/obj/",
+      "outputPath": "/Users/shuoheren/Documents/GitHub/PokemonReivewApp/PokemonReivewApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shuoheren/.nuget/NuGet/NuGet.Config"
